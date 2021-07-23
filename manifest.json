@@ -1,0 +1,72 @@
+{
+  "name": "tutorferry.com",
+  "short_name": "Tutor Ferry",
+  "description": "อันดับ1 ครูสอนพิเศษตัวต่อตัว",
+  "categories": ["education"],
+  "scope": "https://www.tutorferry.com/",
+  "orientation": "portrait",
+  "display": "standalone",
+  "theme_color": "#221177",
+  "background_color": "#ffffff",
+  "start_url": "https://www.tutorferry.com/",
+  "icons": [
+    {
+      "src": "http://2.bp.blogspot.com/-xynWmq5cZ70/YAEEpDMuorI/AAAAAAAAvFk/VXIdtp4_CCURr1trQbVP8Tc7lfZwfpIjgCK4BGAYYCw/s1600/profile96x96.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "http://2.bp.blogspot.com/-5F-8q1nPe7s/YAEEyD-GhjI/AAAAAAAAvFs/TyqLySjJslEF5CjQ-Hg9PlRt_ULLVKxKQCK4BGAYYCw/s1600/profile144x144.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://3.bp.blogspot.com/-rSu9r_2pWJs/XQ7VcSe1TxI/AAAAAAAAobA/fVl-g_Ko3TEFzV1iwAUX5Ghadn1snPbRgCK4BGAYYCw/s1600/profile192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-8H8dShVc59M/YPjUITfA1jI/AAAAAAAAzMM/x0U33vrgUrcppOjLNX6lg9UHWXFuvkHaACLcBGAsYHQ/profile512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+"screenshots" : [
+  {
+    "src": "https://1.bp.blogspot.com/-tarxJ2yfTA8/YPjfJdQ5oLI/AAAAAAAAzMw/PGVnIlqSqNsPhf9GzzHaKqgm-gWFKNyHQCLcBGAsYHQ/s1280/screenshots720x1280.png",
+    "sizes": "720x1280",
+    "type": "image/png"
+  },
+  {
+    "src": "https://1.bp.blogspot.com/-EWt-6QNvmPU/YPjfJZRonOI/AAAAAAAAzM0/Cqi6Ps6ReAYch0xSTtUpHE_NWoVpf1Y3wCLcBGAsYHQ/s1280/screenshots720x1280-1.png",
+    "sizes": "720x1280",
+    "type": "image/png"
+  }
+  ],
+"shortcuts" : [
+  {
+    "name": "Tutors",
+    "url": "https://www.tutorferry.com/index.html",
+    "description": "อันดับ1 ครูสอนพิเศษตัวต่อตัว",
+    "icons": [{ "src": "http://2.bp.blogspot.com/-xynWmq5cZ70/YAEEpDMuorI/AAAAAAAAvFk/VXIdtp4_CCURr1trQbVP8Tc7lfZwfpIjgCK4BGAYYCw/s1600/profile96x96.png", "sizes": "96x96" }]
+  },
+  {
+    "name": "About Us",
+    "url": "https://www.tutorferry.com/p/blog-page_63.html",
+    "description": "About Us Tutor Ferry",
+    "icons": [{ "src": "http://2.bp.blogspot.com/-xynWmq5cZ70/YAEEpDMuorI/AAAAAAAAvFk/VXIdtp4_CCURr1trQbVP8Tc7lfZwfpIjgCK4BGAYYCw/s1600/profile96x96.png", "sizes": "96x96" }]
+  },
+  {
+    "name": "Testimonials",
+    "url": "https://www.tutorferry.com/2016/06/student-testimonials.html",
+    "description": "Student Testimonials",
+    "icons": [{ "src": "http://2.bp.blogspot.com/-xynWmq5cZ70/YAEEpDMuorI/AAAAAAAAvFk/VXIdtp4_CCURr1trQbVP8Tc7lfZwfpIjgCK4BGAYYCw/s1600/profile96x96.png", "sizes": "96x96" }]
+  }
+  ],
+  "splash_pages": null,
+  "prefer_related_applications": false
+}
